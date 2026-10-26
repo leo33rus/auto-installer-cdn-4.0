@@ -1,5 +1,6 @@
-<img width="640" height="360" alt="CyberLock_VPN_channel_640x360" src="https://github.com/user-attachments/assets/6eff383d-1bac-4ee7-8bd2-e53e91636d58" />
-<div align="center">
+
+<img width="1214" height="267" alt="cdn-installer-banner" src="https://github.com/user-attachments/assets/c2c6fbd6-f628-4b3c-8a83-5792e02f7a44" />
+
 
 # 🚀 Auto-installer-cdn-4.0
 
