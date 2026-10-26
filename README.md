@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://cyberlock-official.leo33rus.pro/assets/logo.png" width="280" alt="CyberLock Logo" />
-</p>
-
+<img width="640" height="360" alt="CyberLock_VPN_channel_640x360" src="https://github.com/user-attachments/assets/6eff383d-1bac-4ee7-8bd2-e53e91636d58" />
 <div align="center">
 
 # 🚀 Auto-installer-cdn-4.0
