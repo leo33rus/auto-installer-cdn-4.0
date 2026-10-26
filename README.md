@@ -1,6 +1,8 @@
+<img width="1214" height="267" alt="cdn-installer-banner" src="https://github.com/user-attachments/assets/37d7dc3b-1a49-4ed5-925f-711d95fddc4a" />
 
-<img width="1214" height="267" alt="cdn-installer-banner" src="https://github.com/user-attachments/assets/c2c6fbd6-f628-4b3c-8a83-5792e02f7a44" />
-<p align="center">
+
+<div align="center">
+
 # 🚀 Auto-installer-cdn-4.0
 
 **Автоматическое развёртывание VLESS XHTTP Packet-Up через CDN**
