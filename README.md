@@ -1,4 +1,6 @@
-<img width="1280" height="640" alt="5626" src="https://github.com/user-attachments/assets/bbcfbc41-16c4-4220-b951-083ccfefe4f5" />
+<p align="center">
+  <img src="https://cyberlock-official.leo33rus.pro/assets/logo.png" width="280" alt="CyberLock Logo" />
+</p>
 
 <div align="center">
 
