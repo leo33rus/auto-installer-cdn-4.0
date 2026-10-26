@@ -1,6 +1,5 @@
+<p align="center">
 <img width="1214" height="267" alt="cdn-installer-banner" src="https://github.com/user-attachments/assets/37d7dc3b-1a49-4ed5-925f-711d95fddc4a" />
-
-
 <div align="center">
 
 # 🚀 Auto-installer-cdn-4.0
