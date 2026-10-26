@@ -1,4 +1,4 @@
-
+<p align="center">
 <img width="1214" height="267" alt="cdn-installer-banner" src="https://github.com/user-attachments/assets/c2c6fbd6-f628-4b3c-8a83-5792e02f7a44" />
 
 
